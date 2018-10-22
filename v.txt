@@ -4,6 +4,8 @@
 1.UI设计
 2.解决长按闪退卡死的问题
 3.安装失败的请卸载原版本在安装！
+4.xxxx
+5.xxxxxx
 【内容】
 【链接】https://likefr.github.io/Fr/Beautify.apk【链接】
 
